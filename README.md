@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-[kodluyoruz(https://github.com/Rumeyysaa/kodluyoruzilkrepo.git)]
+[kodluyoruz](https://github.com/Rumeyysaa/kodluyoruzilkrepo.git)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Ekran görüntüsü 2022-11-06 211815](https://user-images.githubusercontent.com/116943432/200188806-b3969622-c974-45f0-aeb8-8ad153031b83.png)
 
